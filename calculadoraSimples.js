@@ -1,3 +1,6 @@
+//https://dojopuzzles.com/problems/calculando-estatisticas-simples/
+
+
 class CalculadoraSimples {
   
     constructor(sequencia) {
